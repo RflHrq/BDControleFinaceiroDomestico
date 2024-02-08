@@ -1,3 +1,4 @@
+-- Linguagem: SQL
 INSERT INTO Usuario (id_usuario, nome_usuario, senha, email, endereco, telefone)
 VALUES 
   (1, 'Joao da Silva', 'Senha123', 'joao.silva@email.com', 'Rua das Flores, 123, City - RP', '(01) 91124 - 2326'),
