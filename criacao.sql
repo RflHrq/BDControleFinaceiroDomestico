@@ -1,5 +1,6 @@
-create database 8156_8160_8181;
-USE 8156_8160_8181;
+-- Linguagem: SQL
+create database BdControleFinanceiro;
+USE BdControleFinanceiro;
 
 -- Tabela para armazenar informações sobre usuários
 CREATE TABLE Usuario (
