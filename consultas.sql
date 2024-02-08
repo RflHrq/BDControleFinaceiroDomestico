@@ -1,3 +1,4 @@
+-- Linguagem: SQL
 -- 1. Listar todas as transações de despesas de um usuário específico:
 SELECT * FROM TransacaoDespesa WHERE id_usuario = 1;
 
