@@ -81,3 +81,7 @@ Este banco de dados oferece uma estrutura robusta para o controle financeiro dom
    
 ### Desenvolvimento de Aplicações (Opcional):
 1. Se desejar integrar este banco de dados em uma aplicação, você pode desenvolver uma camada de acesso a dados utilizando a linguagem de programação de sua escolha (por exemplo, Python, Java, C#, etc.) e o driver adequado para seu sistema de gerenciamento de banco de dados.
+
+## Contribuições e Melhorias
+Contribuições são bem-vindas! Se você tiver sugestões para melhorar o código ou identificar possíveis problemas, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
